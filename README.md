@@ -70,9 +70,6 @@ Hi there! I'm Mahithi — a passionate AI undergraduate with a dream to architec
 
 ---
 
-
-## 🎮 Mini Cloud Game
-<!-- Cloud Snake-style Contribution Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/mahithiredd/mahithiredd/output/cloud.svg" alt="Cloud animation" />
 </p>
