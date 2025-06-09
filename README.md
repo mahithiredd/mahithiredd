@@ -69,8 +69,43 @@ Hi there! I'm Mahithi — a passionate AI undergraduate with a dream to architec
 </p>
 
 ## 🐍 Watch Me Snake Through the Clouds!
+<!-- Paste this in your README.md -->
 
-<img src="running-girl.svg" alt="Running Girl on Clouds Animation" />
+<h3 align="center">🏃‍♀️ Girl Running on Clouds Animation</h3>
+
+<div align="center">
+<svg width="300" height="150" viewBox="0 0 300 150" xmlns="http://www.w3.org/2000/svg" >
+
+  <!-- Clouds -->
+  <circle cx="30" cy="80" r="20" fill="#ddd"/>
+  <circle cx="50" cy="70" r="25" fill="#eee"/>
+  <circle cx="70" cy="80" r="20" fill="#ddd"/>
+
+  <circle cx="150" cy="90" r="20" fill="#ddd"/>
+  <circle cx="170" cy="80" r="25" fill="#eee"/>
+  <circle cx="190" cy="90" r="20" fill="#ddd"/>
+
+  <circle cx="260" cy="85" r="20" fill="#ddd"/>
+  <circle cx="280" cy="75" r="25" fill="#eee"/>
+  <circle cx="300" cy="85" r="20" fill="#ddd"/>
+
+  <!-- Girl - a simple running figure -->
+  <g id="girl" fill="#ff69b4" stroke="#c71585" stroke-width="2">
+    <!-- Body -->
+    <circle cx="0" cy="0" r="8" />
+    <rect x="-5" y="8" width="10" height="20" rx="3" ry="3" />
+    <!-- Legs -->
+    <line x1="0" y1="28" x2="-8" y2="40" stroke="#c71585" stroke-width="3" />
+    <line x1="0" y1="28" x2="8" y2="40" stroke="#c71585" stroke-width="3" />
+    <!-- Arms -->
+    <line x1="0" y1="12" x2="-10" y2="15" stroke="#c71585" stroke-width="3" />
+    <line x1="0" y1="12" x2="10" y2="15" stroke="#c71585" stroke-width="3" />
+  </g>
+
+  <!-- Animate the girl moving left to right over clouds -->
+  <animateMotion xlink:href="#girl" dur="6s" repeatCount="indefinite" path="M -20 70 Q 50 50 120 70 T 280 70" />
+</svg>
+</div>
 
 ## ✨ Fun Quote
 
