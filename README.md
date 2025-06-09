@@ -69,6 +69,15 @@ Hi there! I'm Mahithi — a passionate AI undergraduate with a dream to architec
 </p>
 
 ## 🐍 Watch Me Snake Through the Clouds!
+## 🐍 Watch Me Snake Through the Clouds!
+
+<p align="center">
+  <em>"Slithering through contributions... one commit at a time." 🐍💻</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/mahithiredd/mahithiredd/blob/snake-output/snake-output/github-contribution-grid-snake.svg" alt="Cloud Snake Animation" />
+</p>
 
 <p align="center">
   <img src="https://github.com/mahithiredd/mahithiredd/blob/snake-output/snake-output/github-contribution-grid-snake.svg" alt="Cloud Snake Animation" />
