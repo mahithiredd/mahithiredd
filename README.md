@@ -17,14 +17,13 @@ Hi there! I'm Mahithi — a passionate AI undergraduate with a dream to architec
 - 🧠 Curious about **Edge AI**, **Serverless**, and **ML Ops**
 
 ---
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats and Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahithiredd&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahithiredd&layout=compact&theme=tokyonight&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahithiredd&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahithiredd&layout=compact&theme=tokyonight" height="180"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahithiredd&theme=tokyonight" height="180"/>
 </div>
-
----
 
 ## 🧰 Tech Toolbox
 
