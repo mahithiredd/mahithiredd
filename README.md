@@ -5,8 +5,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahititanguturi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahititanguturi&layout=compact&langs_count=6&theme=gruvbox&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahithiredd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahithiredd&layout=compact&langs_count=6&theme=gruvbox&hide_border=false" height="150" />
 </div>
 
 ---
