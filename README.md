@@ -72,49 +72,11 @@ Hi there! I'm Mahithi — a passionate AI undergraduate with a dream to architec
 
 
 ## 🎮 Mini Cloud Game
+<!-- Cloud Snake-style Contribution Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahithiredd/mahithiredd/output/cloud.svg" alt="Cloud animation" />
+</p>
 
-> Want to play with the clouds? Try catching them!  
-> *(Tip: View this game in your browser or portfolio site — GitHub won't render it.)*
-
-<details>
-<summary>🌩️ Click to Launch "Catch the Cloud" Game</summary>
-
-```html
-<canvas id="cloudGame" width="300" height="200" style="border:1px solid #ccc;"></canvas>
-<script>
-  const canvas = document.getElementById('cloudGame');
-  const ctx = canvas.getContext('2d');
-  let x = Math.random() * 280;
-  let y = 0;
-  let score = 0;
-
-  function drawCloud() {
-    ctx.clearRect(0, 0, canvas.width, canvas.height);
-    ctx.font = "20px Arial";
-    ctx.fillText("☁", x, y);
-    ctx.fillText("Score: " + score, 10, 190);
-    y += 2;
-    if (y > 180) {
-      x = Math.random() * 280;
-      y = 0;
-    }
-    requestAnimationFrame(drawCloud);
-  }
-
-  canvas.addEventListener('click', function (e) {
-    const clickX = e.offsetX;
-    const clickY = e.offsetY;
-    if (clickX >= x && clickX <= x + 20 && clickY >= y && clickY <= y + 20) {
-      score++;
-      x = Math.random() * 280;
-      y = 0;
-    }
-  });
-
-  drawCloud();
-</script>
-
----
 
 ## ✨ Fun Quote
 
