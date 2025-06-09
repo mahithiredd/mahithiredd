@@ -13,40 +13,34 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0     # Fetch all history for all branches
+          fetch-depth: 0
 
       - name: Generate snake animation SVG
         uses: Platane/snk@v3
         with:
           github_user_name: mahithiredd
           outputs: |
-            output/github-contribution-grid-snake.svg
+            snake-output/github-contribution-grid-snake.svg
 
       - name: Configure Git for pushing
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Checkout output branch or create if missing
+      - name: Checkout snake-output branch or create if missing
         run: |
-          git fetch origin output || echo "No output branch yet"
-          if git rev-parse --verify origin/output; then
-            git checkout output
-            git reset --hard origin/output
+          git fetch origin snake-output || echo "No branch yet"
+          if git rev-parse --verify origin/snake-output; then
+            git checkout snake-output
+            git reset --hard origin/snake-output
           else
-            git checkout -b output
+            git checkout -b snake-output
           fi
-
-      - name: Copy generated SVG to repo root (if needed)
-        run: |
-          mkdir -p output
-          # This assumes the SVG is created somewhere else, but Platane/snk writes directly
-          # If generated in different path, adjust accordingly
 
       - name: Commit and push changes
         run: |
-          git add output/github-contribution-grid-snake.svg
+          git add snake-output/github-contribution-grid-snake.svg
           git commit -m "Update snake animation" || echo "No changes to commit"
-          git push origin output --force
+          git push origin snake-output --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
