@@ -69,11 +69,9 @@ Hi there! I'm Mahithi — a passionate AI undergraduate with a dream to architec
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mahithiredd/mahithiredd/output/cloud.svg" alt="Cloud animation" />
+  <img src="https://github.com/mahithiredd/mahithiredd/blob/output/clouds.svg" alt="Cloud animation" />
 </p>
-
 
 ## ✨ Fun Quote
 
