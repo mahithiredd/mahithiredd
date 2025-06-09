@@ -69,13 +69,10 @@ Hi there! I'm Mahithi — a passionate AI undergraduate with a dream to architec
 </p>
 
 ## 🐍 Watch Me Snake Through the Clouds!
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mahithiredd/mahithiredd/snake-output/github-contribution-grid-snake.svg" alt="Cloud Snake Animation" />
 </p>
----
-
 
 ## ✨ Fun Quote
 
