@@ -1,66 +1,85 @@
-<h2 align="left">Hi 👋! I'm Tanguturi Mahithi Reddy</h2>
+<h1 align="center">☁️ Tanguturi Mahithi Reddy</h1>
+<h3 align="center">Aspiring Cloud Architect | AI Enthusiast | Tech Explorer</h3>
 
-<p align="left">🌱 Currently exploring the world of <strong>Cloud Computing</strong> with a strong foundation in <strong>AI</strong>, <strong>Deep Learning</strong>, and <strong>IoT</strong>. Passionate about solving real-world problems with intelligent, scalable tech solutions!</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Cloud+Computing+%7C+AI+%7C+ML+%7C+IoT+%F0%9F%93%A1;Always+Learning+Something+New...+%F0%9F%93%9A;Solving+problems+with+intelligent+tech+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+</p>
 
 ---
+
+## 🌤️ About Me
+
+Hi there! I'm Mahithi — a passionate AI undergraduate with a dream to architect tomorrow’s cloud systems. Whether it's optimizing energy use with Green Cloud, building precision farming models, or deploying AI pipelines, I love making technology purposeful and powerful.
+
+- 🎓 **B.Tech Artificial Intelligence** @ Amrita Vishwa Vidyapeetham  
+- ☁️ AWS Certified | Green Cloud Researcher  
+- 🤖 Building smart, sustainable, and scalable solutions  
+- 🧠 Curious about **Edge AI**, **Serverless**, and **ML Ops**
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahithiredd&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahithiredd&layout=compact&theme=tokyonight&hide_border=false" height="180"/>
+</div>
+
+---
+
+## 🧰 Tech Toolbox
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahithiredd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahithiredd&layout=compact&langs_count=6&theme=gruvbox&hide_border=false" height="150" />
+  <img src="https://skillicons.dev/icons?i=aws,python,pytorch,docker,mysql,mongodb,anaconda,git,github,linux,latex,vscode,jupyter,kaggle" />
 </div>
 
 ---
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+## 🧠 Projects That I'm Proud Of
 
-### 🛠️ Tech Stack & Tools:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="30" alt="Anaconda" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="MongoDB" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="30" alt="Pandas" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="30" alt="NumPy" />
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="30" alt="PyTorch" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="Docker" />
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="30" alt="AWS" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="Git" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="30" alt="GitHub" />
-  <img src="https://cdn.simpleicons.org/latex/008080" height="30" alt="LaTeX" />
-</div>
+- 🔬 **Precision Farming (2024)**  
+  Applied wavelet transforms + ML/DL for accurate crop yield predictions.  
+  _AI + Agriculture = Sustainable future!_
+
+- 🧠 **Brain Tumor Detection (2023)**  
+  CNN-based MRI image classification for early diagnosis support.  
+
+- ♻️ **Green Cloud for IoT (2025 - Publication)**  
+  Merged ML with edge and cloud to save energy in sensor networks.  
+
+- 🧮 **Metaheuristic Scheduling**  
+  Explored GA, ACO, SA for optimizing job shop production timelines.
 
 ---
 
-### 📘 Academic Highlights:
-- 🎓 B.Tech in Artificial Intelligence, Amrita Vishwa Vidyapeetham | CGPA: 8.47  
-- 🧠 Precision Farming using Lifting Wavelet Transform + DL Models  
-- 🧠 Brain Tumor Classification using CNNs  
-- 📡 Green Cloud Computing for Energy-Efficient IoT  
-- 🧮 Job Shop Scheduling with Metaheuristics (GA, ACO, SA)
+## 📜 Certifications
 
----
-
-### 📜 Certifications:
 - ✅ [AWS Academy Graduate (2024)](https://www.credly.com/badges/4f12e002-8014-4511-b41d-129d62ef740e/linked_in_profile)  
-- ✅ [AI with Wipro & IIT Roorkee - Teachnook (2023)](https://cert.diceid.com/cid/dSKGLjlCLG)  
-- ✅ [MATLAB Image Processing (2023)](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=7e27ce34-279a-4b63-8a05-00dffb90a302)
+- 🧠 [AI from IIT Roorkee + Wipro Disk IDES (2023)](https://cert.diceid.com/cid/dSKGLjlCLG)  
+- 🧪 [MATLAB Image Processing (2023)](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=7e27ce34-279a-4b63-8a05-00dffb90a302)
 
 ---
 
-### 📫 Let's Connect!
-<div align="left">
-  <a href="mailto:mahitanguturi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mahithi-tanguturi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-</div>
+## 🌐 Let's Connect!
+
+<p align="center">
+  <a href="mailto:mahitanguturi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mahithi-tanguturi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+</p>
 
 ---
 
-### ⚙️ Fun Fact:
-> “Clouds aren’t just in the sky anymore—they’re the future of intelligent computing. I’m here to build them!”
+## ☁️ Cloud Animation Just for You
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/clouds.gif" height="200" alt="Cloud animation"/>
+</p>
 
 ---
 
-<!-- Snake Contribution Graph -->
-<img src="https://raw.githubusercontent.com/Siddhartha80/Siddhartha80/output/snake.svg" alt="snake gif" />
+## ✨ Fun Quote
+
+> “You can’t predict the cloudburst—but you *can* architect the cloud.” ☁️🚀  
+> — *Future Mahithi, probably during a keynote at AWS re:Invent 😉*
+
+---
