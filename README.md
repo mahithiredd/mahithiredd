@@ -68,17 +68,6 @@ Hi there! I'm Mahithi — a passionate AI undergraduate with a dream to architec
   <a href="https://www.hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
 
-## 🐍 Watch Me Snake Through the Clouds!
-## 🐍 Watch Me Snake Through the Clouds!
-
-<p align="center">
-  <em>"Slithering through contributions... one commit at a time." 🐍💻</em>
-</p>
-
-<p align="center">
-  <img src="https://github.com/mahithiredd/mahithiredd/blob/snake-output/snake-output/github-contribution-grid-snake.svg" alt="Cloud Snake Animation" />
-</p>
-
 <p align="center">
   <img src="https://github.com/mahithiredd/mahithiredd/blob/snake-output/snake-output/github-contribution-grid-snake.svg" alt="Cloud Snake Animation" />
 </p>
