@@ -22,7 +22,6 @@ Hi there! I'm Mahithi — a passionate AI undergraduate with a dream to architec
   <img src="https://github-readme-stats.vercel.app/api?username=mahithiredd&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahithiredd&layout=compact&theme=tokyonight" height="180"/>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahithiredd&theme=tokyonight" height="180"/>
 </div>
 
 ## 🧰 Tech Toolbox
