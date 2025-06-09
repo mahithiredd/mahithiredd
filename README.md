@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Cloud Architect | AI Enthusiast | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Cloud+Computing+%7C+AI+%7C+ML+%7C+IoT+%F0%9F%93%A1;Always+Learning+Something+New...+%F0%9F%93%9A; Solving+problems+with+intelligent+tech+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Cloud+Computing+%7C+AI+%7C+ML+%7C+IoT+%F0%9F%93%A1;Always+Learning+Something+New...+%F0%9F%93%9A;Building+intelligent+tech+solutions%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
