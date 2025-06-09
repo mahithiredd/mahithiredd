@@ -70,9 +70,9 @@ Hi there! I'm Mahithi — a passionate AI undergraduate with a dream to architec
 
 ---
 
-## ☁️ Cloud Animation Just for You
+## ☁️ Cloud Vibes for You
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/clouds.gif" height="200" alt="Cloud animation"/>
+  <img src="https://svgshare.com/i/xdD.svg" height="160" alt="cloud loading animation"/>
 </p>
 
 ---
