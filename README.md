@@ -75,6 +75,7 @@ Hi there! I'm Mahithi — a passionate AI undergraduate with a dream to architec
   <img src="https://raw.githubusercontent.com/mahithiredd/mahithiredd/output/github-contribution-grid-snake.svg" alt="Cloud Snake Game" />
 </p>
 
+
 ## ✨ Fun Quote
 
 > “You can’t predict the cloudburst—but you *can* architect the cloud.” ☁️🚀  
