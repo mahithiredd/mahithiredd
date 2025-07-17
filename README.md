@@ -108,22 +108,17 @@ Hi there! I'm Mahithi — a passionate AI undergraduate with a dream to architec
 
 
 <p align="center">
-
-  <a href="mailto:mahitanguturi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-  <a href="https://www.linkedin.com/in/mahithi-tanguturi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-  <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
-
-  <a href="https://www.hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="mailto:mahitanguturi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mahithi-tanguturi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+<a href="https://www.hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 
 </p>
 
 
 
 <p align="center">
-
-  <img src="https://github.com/mahithiredd/mahithiredd/blob/snake-output/snake-output/github-contribution-grid-snake.svg" alt="Cloud Snake Animation" />
+<img src="https://github.com/mahithiredd/mahithiredd/blob/snake-output/snake-output/github-contribution-grid-snake.svg" alt="Cloud Snake Animation" />
 
 </p>
 
