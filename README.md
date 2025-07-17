@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Development Engineer | Full-Stack Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=490&lines=Building+scalable+web+and+mobile+applications;Passionate+about+clean+code+and+software+design;Always+learning+new+technologies+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=490&lines=Building+scalable+web+and+mobile+applications;Clean+code+and+software+design;Always+learning+new+technologies+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
